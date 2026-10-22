@@ -1,0 +1,4 @@
+name: opencode-token-usage
+repo: https://github.com/chenlongapps/opencode-token-usage
+tagline: Token usage, context window, estimated cost, TPS, and TTFT for OpenCode 2 sessions and subagents
+description: Displays token usage and estimated costs across the session tree, including subagents, in OpenCode 2's terminal interface. Provides context window monitoring, TPS and TTFT metrics, and an on-demand /usage dialog with per-model statistics. Cost estimates are not provider bills.
